@@ -1,0 +1,46 @@
+.repos-container {
+  width: 60%;
+}
+
+.repos-item {
+  width: 48%;
+  margin-bottom: 20px;
+}
+
+.repos-container .repos-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.single-repo-container {
+  padding: 16px;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+}
+
+.single-repo-inner-upper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.single-repo-name {
+  color: #0366d6;
+}
+
+.single-repo-github {
+  margin-right: 5px;
+}
+
+.single-repo-inner-lower {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.single-repo-selection {
+  display: flex;
+  align-items: center;
+}

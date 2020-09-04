@@ -1,0 +1,33 @@
+.pagination-list {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: 20px;
+}
+
+.pagination-list-item {
+  border: 1px solid #e6e6e6;
+  margin-right: 1px;
+}
+
+.pagination-list-item-number {
+  padding: 5px 10px;
+  color: black;
+  display: block;
+}
+
+.pagination-list-item-number:hover {
+  color: white;
+}
+
+.active:hover {
+  background-color: #f66e5e;
+}
+
+.pagination-item-current-page {
+  background-color: #f66e5e;
+}
+
+.pagination-number-current-page {
+  color: white;
+}
