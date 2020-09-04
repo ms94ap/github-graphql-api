@@ -5,7 +5,7 @@ To begin:
 
 ### `Generate an Access Token`
 
-To generate access token visit [https://github.com/settings/tokens](https://github.com/settings/tokens) and click **Generate new token**. Under **Select Scopes**, check **public_repo** which will give you access to public repositories. Press **Generate Token**, and **_copy-save the token somewhere safe_**.
+To generate access token visit [https://github.com/settings/tokens](https://github.com/settings/tokens). Under **Select Scopes**, check **public_repo** which will give you access to public repositories. **_copy-save the token somewhere safe_**.
 
 ### `Clone the repository`
 
@@ -16,8 +16,6 @@ After cloning the repository open the project from your editor and on _root fold
 ##### `REACT_APP_GITHUB_KEY = PASTE HERE YOUR ACCES TOKEN`
 
 and save.
-
-**DO NOT** use quotation when you paste the access token
 
 The final steps:
 
