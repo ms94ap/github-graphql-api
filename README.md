@@ -27,4 +27,4 @@ and
 
 ## USAGE
 
-To change the repository owner, go to `queries.js` and in the query `repositoryOwner(login: "add_your_selection")`. Similarly with number of repositories, add the number of repositories you want to display `repositories(last: 15)`
+To change the repository owner, go to `queries.js` and in the query `repositoryOwner(login: "add_your_selection")`.
